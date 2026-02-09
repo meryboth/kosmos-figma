@@ -1,0 +1,19 @@
+{
+  "name": "Kosmos",
+  "id": "1601327906477839039",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "documentAccess": "dynamic-page",
+  "editorType": [
+    "figma"
+  ],
+  "ui": "ui.html",
+  "networkAccess": {
+    "allowedDomains": [
+      "https://qxlnlmqbxirmthktwfex.supabase.co"
+    ],
+    "reasoning": "Fetch wireframe specs and project data from Supabase backend"
+  }
+}
